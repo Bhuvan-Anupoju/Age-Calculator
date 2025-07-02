@@ -7,7 +7,7 @@
  ## Project Screenshot
 ![Age Calculator](https://github.com/user-attachments/assets/a66bcf2d-6939-4c46-b3bb-c2fe8ba84147)
 ## Features
-- Clean and responsive user interface
+
 
 - Input field for selecting birth date
 
